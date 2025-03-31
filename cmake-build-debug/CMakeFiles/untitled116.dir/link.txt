@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/untitled116.dir/main.c.o -o untitled116 
